@@ -5,6 +5,7 @@
 This application features the ability to create a personalized collection of RSS feeds.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703847-2ce77f00-2d94-11ea-9e1c-0b8ac6224113.png)
 
 ## Application Compiling
 
